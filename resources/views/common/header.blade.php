@@ -27,12 +27,9 @@
           <div class="hidden-xs hidden-sm hidden-md col-lg-8 text-left">
             <nav>
               <ul class="list-inline">
-                <li><a href="/about"> Products<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a></li>
-                <li><a href="/home"> Solutions<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a></li>
-                <li><a href="/about"> Marketplace</a></li>
-                <li><a href="/home"> Customers</a></li>
-                <li><a href="/about"> Community<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></a></li>
-                <li><a href="/home"> Pricing</a></li>
+                <li><a href="/home"> Home<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a></li>
+                <li><a href="/about"> About<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a></li>
+                <li><a href="/dischi"> Dischi</a></li>
               </ul>
             </nav>
           </div>
